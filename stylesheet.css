@@ -12,7 +12,7 @@ background: black;
 margin: 15% auto;
 }
 .heart:before, .heart:after{
-content: "";
+content: ""; /*leave empty, unless you want to add text*/
 position:absolute;
 background: rgb(26, 26, 180);
 border: solid transparent;
